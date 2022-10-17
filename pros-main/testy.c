@@ -7,7 +7,7 @@ typedef struct student //struktura student
 {
 	char* id;
 	char* name;
-	char* points;
+	char* points; //sgfd
 
 }stud;
 
